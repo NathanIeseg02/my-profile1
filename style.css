@@ -1,0 +1,42 @@
+body {
+    background-color: F6EDDD;
+    color: 623B1C;
+    font-family: Courier;
+}
+h1, h2 {
+	font-family: 'Labrada', serif ;
+}
+h1{
+color: 49260A;
+font-size: 40px ;
+}
+h2{color: 623B1C;
+	font-size: 24px;
+}
+a{
+	text-decoration: none;
+	color: CAAD8C;
+}
+a: hover{
+	color: CAAD8C;
+}
+div{
+	background: blanchedalmond;
+    padding: 60px;
+    margin: 20px;
+    box-shadow: 0px 10px 30px;
+    border-radius: 4px;
+}
+.btn-black{
+	background-color: black;
+	color: blanchedalmond;
+	padding: 15px 20px;
+	margin: 3px;
+	text-align: center;
+}
+.list-inline{
+	background-color: black;
+	color: blanchedalmond;
+	padding: 15px 20px;
+	text-align: center;
+}
